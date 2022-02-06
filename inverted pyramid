@@ -6,4 +6,4 @@ for i in range (0,n):
   for k in range(0,i):
     print("",end=" ")
   m=m-1
-  print(""
+  print("")
